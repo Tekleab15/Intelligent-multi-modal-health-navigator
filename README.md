@@ -24,3 +24,17 @@ The **Intelligent Multimodal Health Navigator** is an AI-powered application des
 ├── README.md           # Documentation for your project
 ├── requirements.txt    # Project dependencies
 ├── Intelligent_Multimodal_Health_Navigator.ipynb # Demonstration notebook
+
+## Setup Instructions
+### Clone the Repository:
+```bash
+git clone https://github.com/tekleab15/Intelligent_Multimodal_Health_Navigator.git
+cd Intelligent_Multimodal_Health_Navigator
+
+##Test with Examples:
+### Input queries like:
+- "I have a fever and cough."
+- "Book an appointment for General Medicine on 2025-03-04."
+
+##License 
+MIT Licence
