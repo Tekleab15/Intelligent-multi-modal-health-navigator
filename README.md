@@ -20,7 +20,7 @@ The **Intelligent Multimodal Health Navigator** is an AI-powered application des
 ├── src                 # Source code and backend modules
 │   ├── backend_functions.py # Functions for symptom analysis & scheduling
 │   ├── dispatching.py        # Dispatcher for executing function calls
-│   ├── json_tools.py   # Gradio interface for the application
+│   ├── health_tools.py   # Gradio interface for the application
 ├── README.md           # Documentation for your project
 ├── requirements.txt    # Project dependencies
 ├── Intelligent_Multimodal_Health_Navigator.ipynb # Demonstration notebook
